@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/body_bg.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/book_btn_bg.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/bottom_navbar_bg.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/cancel.xml" value="0.129" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/cardview_bg1.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/cardview_bg2.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/cardview_bg3.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/cardview_bg4.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/filter_on.xml" value="0.1" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/hamburgermenu.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/info.xml" value="0.129" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/location.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/menu_navbar.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/more_menu.xml" value="0.129" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/orange_bg_selected.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/orange_bg_tag.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/red_gradient.xml" value="0.129" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/search_box_bg.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/share.xml" value="0.129" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/star_fill.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/star_without_fill.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/ticket_fill.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/ticket_without_fill.xml" value="0.113" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/drawable/yellow_gradient.xml" value="0.129" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/layout-v28/activity_splash_screen.xml" value="0.2171875" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/layout/activity_booked_tickets.xml" value="0.1782051282051282" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/layout/activity_fav.xml" value="0.1782051282051282" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/layout/activity_splash_screen.xml" value="0.1782051282051282" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/layout/activity_ticket_booking.xml" value="0.1782051282051282" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/layout/filer_bottom_sheet_layout.xml" value="0.1962962962962963" />
+        <entry key="..\:/code/Event-Booking-App/app/src/main/res/layout/show_bottom_sheet_layout.xml" value="0.17602363866610385" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Event Booking</string>
+    <string name="search">Search</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="comedy_show">Comedy Show</string>
+    <string name="show_name">Show name</string>
+    <string name="show_info">Show Info</string>
+    <string name="add_filter">Add Filter</string>
+    <string name="play">Play</string>
+    <string name="movie">Movie</string>
+    <string name="recently_booked">Recently Booked</string>
+    <string name="new_delhi">New Delhi</string>
+    <string name="confirm">Confirm</string>
+    <string name="quantity">Quantity</string>
+    <string name="fav_list">You have not added any show in your fav list.</string>
+    <string name="book_ticket">You have not book any show ticket</string>
+    <string name="title">title</string>
+    <string name="info">Info</string>
+    <string name="cancel">Cancel</string>
+</resources>
